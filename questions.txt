@@ -1,0 +1,16 @@
+0.  word consist of 45 character
+1.  getrusage
+2. 16
+3.  to save memory and time of copying
+4. start to read charachter by character untill reach the end of file if it is not alphanbit it ignore words
+   with number value if it is char it but in the array and chechk if it full or not 
+5. to avoid geting number or invalid char 
+6. to make no one can change it's size  and cannot be altered by the program
+7.  hash table it is array of pointers pointed to nodes each node consist of word and pointer to the next node
+8.  the load is 0.04 
+        check is 5.00
+        size is  00.00
+        unload   0.01
+        
+9.  change the data structure 
+10. NO
